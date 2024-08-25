@@ -9,7 +9,7 @@ This project simulates a gambling scenario using Python, leveraging multiprocess
 Requirements
 ------------
 
-*   Python 3.x
+*   Python 3.x (check requirements.txt)
 *   `pandas` library
 *   `openpyxl` library (automatically installed with `pandas`)
 *   (Optional) `numpy` for numeric operations (if needed in future enhancements)
